@@ -285,10 +285,12 @@
 - Launch 文件源码截图（完整显示 XML 配置内容）；
 [![](./照片week2/16.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/15.jpg?raw=true)
 - 多乌龟启动截图（两个 turtlesim 窗口同时显示）；[![](./照片week2/17.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/17.jpg?raw=true)
+- https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/1717.jpg?raw=true
 - rqt_graph 截图（清晰显示两个命名空间下的节点与话题通信）；[![](./照片week2/18%2019.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/16.jpg?raw=true)
 - rqt_plot 截图（速度曲线正常显示）。
 [[![](./照片week2/18%2019.jpg)
 ](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/17.jpg?raw=true)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/18%2019.jpg?raw=true)
+https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/plot.jpg?raw=true
 ## 3. 常见问题与解决方法
 ### 3.1 ROS 安装相关问题
 - 问题现象：`rosdep update` 超时失败；
@@ -344,4 +346,5 @@
 Turtlesim 仿真的实操让抽象的 ROS 通信机制变得直观，从键盘控制到程序画圆，再到多乌龟协同控制，我清晰地看到了“发布者-订阅者”模式的工作流程。Launch 文件的使用则让我感受到 ROS 工具链的高效，无需重复启动多个终端，只需一个文件即可批量启动节点并配置参数。
 
 这些基础操作的掌握，为后续学习 ROS 进阶功能（如服务、动作、参数服务器）、机器人仿真与实物开发打下了坚实基础。同时，Linux 命令行与 ROS 工具链的结合使用，也让我体会到开源开发环境的灵活性与强大性，后续需加强命令参数与配置文件的记忆，提升开发效率。
+
 
