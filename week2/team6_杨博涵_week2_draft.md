@@ -19,11 +19,11 @@
 
 #### 2.1.2 截图要求
 - 文件管理全流程截图（需包含 mkdir/touch/mv/rm 命令执行结果）；
-![](./照片week2/1.jpg)
+[![](./照片week2/1.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/1.jpg?raw=true)
 - apt 安装软件截图；
-![](./照片week2/2.jpg)
+[![](./照片week2/2.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/2.jpg?raw=true)
 - 进程管理截图（含 ps 查找进程、kill 终止进程、再次查询确认的完整终端输出）。
-![](./照片week2/3.jpg)
+[![](./照片week2/3.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/3.jpg?raw=true)
 
 ### 2.2 任务 2：Python 与 C++ 编程练习
 #### 2.2.1 Python 环境配置与 HelloWorld 实现
@@ -92,12 +92,12 @@
 
 #### 2.2.4 截图要求
 - Python 程序运行截图（终端显示 HelloWorld 输出）；
-![](./照片week2/4.jpg)
+[![](./照片week2/4.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/4.jpg?raw=true)
 - C++ 程序编译与运行截图（含 g++ 编译命令、输入测试数据及求和结果）；
-![](./照片week2/5.jpg)
-![](./照片week2/5.jpg)
+[![](./照片week2/5.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/5..jpg?raw=true)
+[![](./照片week2/5.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/5.jpg?raw=true)
 - VSCode 调试截图。
-![](./照片week2/vscode.jpg)
+[![](./照片week2/vscode.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/vscode.jpg?raw=true)
 
 ### 2.3 任务 3：ROS1 Noetic 安装与验证
 #### 2.3.1 安装步骤（Ubuntu 22.04 适配版）
@@ -121,11 +121,11 @@
 
 #### 2.3.3 截图要求
 - roscore 启动成功截图（终端显示核心服务启动信息）；
-![](./照片week2/7.jpg)
+[![](./照片week2/7.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/7.jpg?raw=true)
 - rosnode list 输出截图（清晰显示 /rosout 节点）；
-![](./照片week2/8.jpg)
+[![](./照片week2/8.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/8.jpg?raw=true)
 - 环境变量截图（echo $ROS_PACKAGE_PATH 输出结果）。
-![](./照片week2/9.jpg)
+[![](./照片week2/9.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/9.jpg?raw=true)
 
 ### 2.4 任务 4：CATKIN 工作空间与功能包创建
 #### 2.4.1 工作空间创建步骤
@@ -183,11 +183,11 @@
 
 #### 2.4.3 截图要求
 - 工作空间创建与 catkin_make 编译截图（显示 build、devel 目录生成过程）；
-![](./照片week2/10.jpg)
+[![](./照片week2/10.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/10.jpg?raw=true)
 - beginner_tutorials 功能包目录截图（清晰显示 src、include、CMakeLists.txt 等文件）；
-![](./照片week2/11.jpg)
+[![](./照片week2/11.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/11.jpg?raw=true)
 - HelloWorld 节点运行截图（终端显示 ROS_INFO 输出的日志信息）。
-![](./照片week2/12.jpg)
+[![](./照片week2/12.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/12.jpg?raw=true)
 
 ### 2.5 任务 5：Turtlesim 小乌龟基础控制
 #### 2.5.1 键盘控制小乌龟
@@ -238,12 +238,11 @@
 
 #### 2.5.4 截图要求
 - 键盘控制截图（含 turtlesim 窗口、teleop_key 终端提示、小乌龟移动轨迹）；
-![](./照片week2/13.jpg)
+[![](./照片week2/13.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/13.jpg?raw=true)
 - rostopic pub 命令截图（完整显示命令格式与终端输出）；
-![](./照片week2/14%2015.jpg)
+[![](./照片week2/14%2015.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/14%2015.jpg?raw=true)
 - 画圆程序运行截图（turtlesim 窗口显示圆形轨迹，终端无报错）。
-![](./照片week2/14%2015.jpg)
-![](./照片week2/15.jpg)
+[[![](./照片week2/14%2015.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/14%2015.jpg?raw=true)
 
 ### 2.6 任务 6：多乌龟 Launch 文件与通信可视化
 #### 2.6.1 Launch 文件编写（多乌龟配置）
@@ -284,12 +283,12 @@
 
 #### 2.6.3 截图要求
 - Launch 文件源码截图（完整显示 XML 配置内容）；
-![](./照片week2/16.jpg)
-- 多乌龟启动截图（两个 turtlesim 窗口同时显示）；![](./照片week2/17.jpg)
-- rqt_graph 截图（清晰显示两个命名空间下的节点与话题通信）；![](./照片week2/18%2019.jpg)
+[![](./照片week2/16.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/15.jpg?raw=true)
+- 多乌龟启动截图（两个 turtlesim 窗口同时显示）；[![](./照片week2/17.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/17.jpg?raw=true)
+- rqt_graph 截图（清晰显示两个命名空间下的节点与话题通信）；[![](./照片week2/18%2019.jpg)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/16.jpg?raw=true)
 - rqt_plot 截图（速度曲线正常显示）。
-![](./照片week2/18%2019.jpg)
-
+[[![](./照片week2/18%2019.jpg)
+](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/17.jpg?raw=true)](https://github.com/2025BIUHcourse/week2-ros-YangBohan12345/blob/main/%E7%85%A7%E7%89%87week2/18%2019.jpg?raw=true)
 ## 3. 常见问题与解决方法
 ### 3.1 ROS 安装相关问题
 - 问题现象：`rosdep update` 超时失败；
@@ -345,3 +344,4 @@
 Turtlesim 仿真的实操让抽象的 ROS 通信机制变得直观，从键盘控制到程序画圆，再到多乌龟协同控制，我清晰地看到了“发布者-订阅者”模式的工作流程。Launch 文件的使用则让我感受到 ROS 工具链的高效，无需重复启动多个终端，只需一个文件即可批量启动节点并配置参数。
 
 这些基础操作的掌握，为后续学习 ROS 进阶功能（如服务、动作、参数服务器）、机器人仿真与实物开发打下了坚实基础。同时，Linux 命令行与 ROS 工具链的结合使用，也让我体会到开源开发环境的灵活性与强大性，后续需加强命令参数与配置文件的记忆，提升开发效率。
+
